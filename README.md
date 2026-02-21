@@ -2,7 +2,7 @@
 <h3 align="center">Un desarrollador web de España!</h3>
 
 # 💫 Sobre mi:
-🌱 Siempre estoy aprendiendo algo nuevo :)<br><br>⚡ Fun fact Mido 1,65 y aparento tener 16 años<br><br>👤 Tengo 22 años<br><br>🍝 Mi comida favorita es la pasta<br><br>📫 Si quieres contactarme, mándame un correo a adelcerrorodriguez@gmail.com
+🌱 Siempre estoy aprendiendo algo nuevo :)<br><br>⚡ Fun fact Mido 1,65 y aparento tener 16 años<br><br>👤 Tengo 23 años<br><br>🍝 Mi comida favorita es la pasta<br><br>📫 Si quieres contactarme, mándame un correo a adelcerrorodriguez@gmail.com
 
 
 ## 🌐 RRSS:
